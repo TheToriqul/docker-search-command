@@ -20,14 +20,14 @@ graph TD
     C -->|JSON Response| D[Results Processing]
     D -->|Filtered Output| E[Terminal Display]
     
-    style A fill:#bbdefb,stroke:#1976d2,stroke-width:2px
-    style B fill:#c8e6c9,stroke:#388e3c,stroke-width:2px
-    style C fill:#ffcc80,stroke:#f57c00,stroke-width:2px
-    style D fill:#ce93d8,stroke:#7b1fa2,stroke-width:2px
-    style E fill:#f48fb1,stroke:#c2185b,stroke-width:2px
+    style A fill:#00b0ff,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style B fill:#00e676,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style C fill:#ffd740,stroke:#ffffff,stroke-width:2px,color:#000000
+    style D fill:#e040fb,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style E fill:#ff4081,stroke:#ffffff,stroke-width:2px,color:#ffffff
 
-    classDef default font-size:14px,font-family:arial
-    linkStyle default stroke-width:2px
+    classDef default font-size:14px,font-family:arial,font-weight:bold
+    linkStyle default stroke:#ffffff,stroke-width:2px
 ```
 
 ## 💻 Technical Stack
